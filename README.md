@@ -8,7 +8,7 @@
 ### General information
 This project investigates the difference in emotional language usage across two different genres. I try to deepen the readers understanding how genre influences the emotional tone at lexical level. Knowing how the amount of emotion words in certain categories influence the genre can later help to build a tool to automatically determine the genre of the book by looking at the emotion words. 
 
-To investigate this I have decided to look at two book from the same time period and very different genres. The books are:
+To investigate this I have decided to look at two books from the same time period and very different genres. The books are:
 * Frankenstein by Mary Shelley
 * Pride and Prejudice by Jane Austen
 
